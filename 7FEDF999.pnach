@@ -1,0 +1,5 @@
+title=Ecco the Dolphin - Defender of the Future (PAL-M5)
+comment=CRC #7FEDF999
+comment=hack by dieSkaarj
+
+patch=1,EE,203FBE34,extended,3FAAAAAB
