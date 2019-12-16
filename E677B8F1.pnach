@@ -1,0 +1,4 @@
+gametitle=Pirates - The Legend Of Black Kat (PAL-M3) SLES_506.80
+comment=Gameplay widescreen hack by dieSkaarj
+
+patch=1,EE,00152ff0,word,3c013f40 //3c013f80
