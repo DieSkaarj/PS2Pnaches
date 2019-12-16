@@ -1,0 +1,4 @@
+gametitle=Fur Fighters - Viggo's Revenge (PAL-M4) SLES_501.06
+comment=Widescreen hack by dieSkaarj.
+
+patch=1,EE,00159ff0,word,3c013f88 //3c013f80
