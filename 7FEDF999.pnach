@@ -1,4 +1,0 @@
-title=Ecco the Dolphin - Defender of the Future (PAL-M5) SCES_504.99.
-comment=Widescreen hack by dieSkaarj
-
-patch=1,EE,203FBE34,extended,3FAAAAAB
