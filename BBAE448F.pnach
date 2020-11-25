@@ -1,4 +1,4 @@
 gametitle=Stolen SLES_528.82
-comment=Widescreen hack by dieSkaarj.
+comment=Widescreen hack by dieSkaarj
 
 patch=1,EE,00aeadf0,word,3f400000 //3c033f40
